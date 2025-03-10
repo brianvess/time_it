@@ -157,7 +157,7 @@ Developed by **Brian Vess**.
 If you find this useful, please ⭐ **star this repository** and contribute! 🚀
 
 ---
-
+## Version 1.1.1
 ### **What’s New in This Version?**
 
 ✅ **Function & Code Block Identification**  
